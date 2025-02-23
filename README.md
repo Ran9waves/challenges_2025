@@ -11,3 +11,6 @@ Link: https://medium.com/@ran9waves/challenge-1-scrape-live-crypto-prices-with-p
 
 Challenge 2: Building a github contribution snake-game-like animation
 Link: https://medium.com/@ran9waves/challenge-2-how-to-add-a-snake-game-like-animation-in-your-github-contributions-2603eca274a0
+
+Challenge 3: IOC's topic
+Link: coming soon ;)
