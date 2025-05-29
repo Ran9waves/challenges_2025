@@ -15,3 +15,5 @@ Link: https://medium.com/@ran9waves/challenge-2-how-to-add-a-snake-game-like-ani
 Challenge 3: Barcode Creator
 
 Challenge 4: MITTRE database  threat groups and their associated techniques automated extractor
+
+Challenge 5: pdf to speech software, or "multitasking"
