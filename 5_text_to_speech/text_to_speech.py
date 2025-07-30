@@ -1,5 +1,5 @@
 import gtts
-from playsound import playsound
+#from playsound import playsound
 import PyPDF2
 
 #opens the pdf file
