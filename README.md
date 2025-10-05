@@ -17,3 +17,9 @@ Challenge 3: Barcode Creator
 Challenge 4: MITTRE database  threat groups and their associated techniques automated extractor
 
 Challenge 5: pdf to speech software, or "multitasking"
+
+Challenge 6: image background remover
+
+Challege 7: video to gif converter
+
+Challenge 8: Fake credit card data generator (educational purposes only)
